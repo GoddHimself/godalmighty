@@ -1,0 +1,2 @@
+# godalmighty
+My discord bot.
